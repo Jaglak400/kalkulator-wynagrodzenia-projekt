@@ -1,0 +1,170 @@
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Theme\Menu.baml
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\App.baml
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.g.cs
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.baml
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.g.cs
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.g.cs
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.baml
+C:\Users\tbujd\source\repos\STUDIA\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.baml
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Theme\Menu.baml
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.g.cs
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.g.cs
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.g.cs
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\App.baml
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.baml
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.baml
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.baml
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\kchmiele\Documents\PRIVATE_kchmiele\szkola\Narzedia informatyki\Praca zaliczeniowa\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Theme\Menu.baml
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.g.cs
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.g.cs
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.g.cs
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\App.baml
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.baml
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.baml
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.baml
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Other\View\IT_comparerView.g.cs
+E:\Dokumenty i inne\Downloads\Kalkulator\Kalkulator\obj\Debug\Other\View\IT_comparerView.baml
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Theme\Menu.baml
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.g.cs
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.g.cs
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Other\View\IT_comparerView.g.cs
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.g.cs
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\App.baml
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.baml
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.baml
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Other\View\IT_comparerView.baml
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.baml
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.manifest
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\bin\Debug\Kalkulator.application
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe.manifest
+C:\Users\sdpoland1\Desktop\adwad\Kalkulator\Kalkulator\obj\Debug\Kalkulator.application
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.manifest
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\bin\Debug\Kalkulator.application
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Theme\Menu.baml
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.g.cs
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.g.cs
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Other\View\IT_comparerView.g.cs
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.g.cs
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\App.baml
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.baml
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.baml
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Other\View\IT_comparerView.baml
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.baml
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe.manifest
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator.application
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\sdpoland1\Documents\Backup\szkola\Narzedia informatyki\Praca zaliczeniowa\projekt final\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.manifest
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\bin\Debug\Kalkulator.application
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Theme\Menu.baml
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.g.cs
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.g.cs
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Other\View\IT_comparerView.g.cs
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.g.cs
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\App.baml
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Other\View\B2B_CalculatorView.baml
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Other\View\HomeView.baml
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Other\View\IT_comparerView.baml
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Other\View\UOP_CalculatorrView.baml
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe.manifest
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.application
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\tbujd\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb

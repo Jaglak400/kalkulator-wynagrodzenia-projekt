@@ -1,0 +1,96 @@
+﻿<Window x:Class="Kalkulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kalkulator"
+        xmlns:viewModel="clr-namespace:Kalkulator.Other.ViewModel"
+        mc:Ignorable="d"
+        Height="600" Width="920"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        AllowsTransparency="True">
+
+    <Window.DataContext>
+        <viewModel:MainViewModel/>
+    </Window.DataContext>
+    
+
+    <Border Background="#FFA500"
+                CornerRadius="20">
+        
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Ellipse Fill="Red" Grid.Row="0" Height="10" Width="10" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" MouseLeftButtonDown="closeApp" ToolTip="Close app"></Ellipse>
+            <Ellipse Fill="Yellow" Grid.Row="0" Height="10" Width="10" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,10,0,0" MouseLeftButtonDown="minimizeApp" ToolTip="Minimize app"></Ellipse>
+            
+            <TextBlock Text="Salary Calculator"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"
+                   Foreground="White"
+                   FontSize="18"
+                   Margin="0,0,0,0"
+                   />
+
+            <StackPanel Grid.Row="1">
+                <!-- Static Resource aplikuje styl z folderu menu.xaml -->
+                <!-- Binding używa kodu z app.xaml do przełączanie się contentu miedzy buttonami -->
+
+
+
+
+                
+              
+                <RadioButton Content="Home"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButton}" 
+                             IsChecked="True"
+                             Command="{Binding HomeViewCommand }"
+                             />
+                
+                <RadioButton Content="Calculator UOP"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButton}" 
+                            
+                             Command="{Binding UOP_CalculatorViewCommand}"
+                             />
+                <RadioButton Content="Calculator B2B"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButton}"
+                             Command="{Binding B2B_CalculatorViewCommand}" Checked="RadioButton_Checked"
+                             />
+
+                <RadioButton Content="IT Comparer"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButton}"
+                             Command="{Binding IT_comparerViewCommand}" Checked="RadioButton_Checked"
+                             />
+            </StackPanel>
+
+            <!-- tu zajduje sie główny content aplikacji-->
+            <ContentControl Grid.Row="1"
+                            Grid.Column="1"
+                            Margin="10"
+                            Content="{Binding CurrentView}"/>
+
+        </Grid>
+    </Border>
+</Window>
